@@ -1,0 +1,7 @@
+# Exclude generated html files and epubs
+*.html
+*#
+.#*
+*.pyc
+__pycache__/
+.python-version
